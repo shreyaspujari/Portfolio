@@ -20,7 +20,7 @@ export const Home = () => {
         {/* Nav Bar  */}
         <Navbar />
         {/* Main Content  */}
-        <main>
+        <main className="pt-20">
             <HeroSection />
             <AboutSection />
             <SkillsSection />
